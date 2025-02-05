@@ -2,7 +2,7 @@
 
 本项目实现了在 Air724UG 模块上，以邮件的形式转发 SIM 卡的通知消息（来电消息 & 短信消息）。  
 
-项目基于 [Air724UG 4G LTE 模块](https://www.openluat.com/Product/4gcat1/Air724UG.html)和 [LuatOS-Air 框架](https://doc.openluat.com/wiki/21?wiki_page_id=1922#LuatOSAir_6)，并以 Lua 语言进行二次开发。  
+项目基于 [Air724UG 4G LTE 模块](https://official.openluat.com/detail?id=9)和 [LuatOS-Air 框架](https://doc.openluat.com/wiki/21?wiki_page_id=1922#LuatOSAir_6)，并以 Lua 语言进行二次开发。  
 
 
 ## 功能特性

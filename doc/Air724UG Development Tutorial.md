@@ -2,8 +2,6 @@
 
 本教程记录了 Air724UG 二次开发中所需要的开发文档以及部分注意事项。  
 
-> 作者非专业硬件开发工程师，纯属个人爱好。  
-
 
 ## 前期准备
 
@@ -38,10 +36,10 @@ USB 黑线（*负极*）接开发板 `GND` 针脚
 
 此处列出 Air724UG 开发中所需的软件列表。  
 
-|序号|软件|作用|下载地址|
+|序号|软件|作用|官方地址|
 |:---:|---|---|:---:|
-|01|Windows USB 驱动|在 Windows 系统上正常识别 Air724UG 硬件|[Download](https://www.openluat.com/Product/file/uis8910dm/sw_file_20200303181718_8910_module_usb_driver_signed%20_20200303_hezhou.7z)|
-|02|LuaTools 工具|为 Air724UG 烧录固件、打印日志|[Download](https://cdndownload.openluat.com/Luat_tool_src/last_release/Luatools_v2.exe)|
+|01|Windows USB 驱动|在 Windows 系统上正常识别 Air724UG 硬件|[Official Site](https://docs.openluat.com/usb_drv/)|
+|02|LuaTools 工具|为 Air724UG 烧录固件、打印日志|[Official Site](https://docs.openluat.com/Luatools/)|
 |03|VS Code|编写 Lua 脚本代码|[Official Site](https://code.visualstudio.com/)|
 
 ---
@@ -52,7 +50,7 @@ USB 黑线（*负极*）接开发板 `GND` 针脚
 
 ## 开发教程
 
-Air724UG 资料汇总： [Air724UG全套资料包](https://doc.openluat.com/wiki/21?wiki_page_id=4020)  
+Air724UG 资料汇总： [Air724UG全套资料包](https://doc.openluat.com/wiki/21?wiki_page_id=6313)  
 
 
 ### 环境搭建
